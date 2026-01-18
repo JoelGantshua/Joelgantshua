@@ -1,4 +1,4 @@
-const PHONE_NUMBER = '21269444701'; // Votre numéro de téléphone au format international sans le +
+const PHONE_NUMBER = '+212669444701'; // Format international avec l'indicatif du Maroc (212) et sans le +
 
 export const generateWhatsAppUrl = (type: 'contact' | 'devis', data: Record<string, string>) => {
   let message = '';
