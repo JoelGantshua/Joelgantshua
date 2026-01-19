@@ -56,7 +56,7 @@ const About = () => {
             À Propos de Moi
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-          Detenteur d'un Bts en développement web et d'une licence en développement mobile, 
+          Detenteur d'un Brevet de Technicien Spécialisé en développement web et d'une Licence en développement d'applications mobiles, 
           je suis un Développeur passionné par la création d'expériences numériques exceptionnelles
           </p>
         </motion.div>

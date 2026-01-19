@@ -5,7 +5,8 @@ import { Star } from 'lucide-react';
 
 import SabrinaProfil from '../assets/sab.jpeg';
 import Louyaprofil from '../assets/taz.jpeg';
-import MarieProfil from '../assets/3.jpg';
+import Rubenprofil from '../assets/ruben.jpg';
+
 
 const testimonials = [
   {
@@ -28,7 +29,7 @@ const testimonials = [
     id: 3,
     name: 'Ruben Mongo',
     role: 'Tech Lead',
-    image: MarieProfil,
+    image: Rubenprofil,
     content: 'Professionnel et compétent, Joel Gantshua a suivi les meilleures pratiques de développement et a toujours été disponible pour répondre à mes questions. Je recommande fortement Joel Gantshua pour tous les projets de développement web.',
     rating: 5
   }
