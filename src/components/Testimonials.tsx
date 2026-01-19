@@ -5,7 +5,7 @@ import { Star } from 'lucide-react';
 
 import SabrinaProfil from '../assets/sab.jpeg';
 import Louyaprofil from '../assets/taz.jpeg';
-import Rubenprofil from '../assets/ruben.jpg';
+import Rubenprofil from '../assets/ruben.png';
 
 
 const testimonials = [
